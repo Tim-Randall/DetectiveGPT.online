@@ -1093,7 +1093,7 @@
   z-index: 1;
   height: 100%;
   background-color: #000;
-  background-image: url('../images/bg-image4.jpg');
+  background-image: url('../images/bg-image4.webp');
   background-position: 0px -1px;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1127,8 +1127,8 @@
   z-index: 1;
   height: 80%;
   background-color: #07080a;
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(68%, transparent), to(#000)), -webkit-gradient(linear, left top, left bottom, from(#000), to(transparent)), url('../images/bg-image4.jpg');
-  background-image: linear-gradient(180deg, transparent 68%, #000), linear-gradient(180deg, #000, transparent), url('../images/bg-image4.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(68%, transparent), to(#000)), -webkit-gradient(linear, left top, left bottom, from(#000), to(transparent)), url('../images/bg-image4.webp');
+  background-image: linear-gradient(180deg, transparent 68%, #000), linear-gradient(180deg, #000, transparent), url('../images/bg-image4.webp');
   background-position: 0px 0px, 0px 0px, 0px 0px;
   background-size: auto, auto, cover;
   background-repeat: repeat, repeat, no-repeat;
@@ -4171,7 +4171,7 @@
 }
 
 .text-block-10 {
-  margin-top: -3.5rem;
+  margin-top: 0.5rem;
   margin-left: 1.5rem;
 }
 
